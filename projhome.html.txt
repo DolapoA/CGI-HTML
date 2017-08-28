@@ -1,0 +1,67 @@
+<html>
+<style type='text/css'>
+<!--
+	body { background: #5F9EA0;
+       	color: white; }
+		h1   { color: white;
+			font-family: Verdana; 
+			font-size: 200%;  }
+			option, input {font-family: verdana;}
+			.boxhead a {text-decoration: none;
+			font-family: verdana;
+}
+
+input[type="submit"] {
+    background: url(http://imageshack.com/a/img921/4723/KBlMfD.png);
+    width: 200px; 
+    height: 50px;
+    border: 0;
+}
+-->``````````````````````````````````````````````+
+
+</style>
+
+	<body>
+		<form method="post" action="http://student.cryst.bbk.ac.uk/cgi-bin/cgiwrap/a002/projcgi.pl">
+<br />
+<br />
+<br />
+<br />
+<br />		
+
+			<p align ='center'>
+				<img src ='http://imageshack.com/a/img924/5856/R0rCrB.jpg' width='50%' height='50%'alt='browser_unsupported_image' border='4' border-style='double' style="border-color:black"/>
+			</p>
+
+<br />
+
+			<p align ='center'>
+				<img src ='http://imageshack.com/a/img924/3898/wDpGUM.png' width='50%' height='10%'alt='Explore Chromosome 17' />
+			</p>
+<br />
+
+			<p align ='center'>
+				<select name='search_type'>
+					<option value='Locus_GI'> Gene ID </option>
+					<option value='Product_Name'> Protein product name </option>
+					<option value='a.Genbank_Accession' selected> Genbank accession </option>
+					<option value='Location_Name'> Chromosomal location </option>
+				</select>
+		<input type='text' name='user_input' size='20'>
+		<input type='submit' value='Search'>
+			</p>
+
+<br />
+<br />
+<br />	
+
+			<p align='center'>
+				<a href="http://student.cryst.bbk.ac.uk/~ad002/aboutus.html">
+					<img src='http://imageshack.com/a/img924/6132/j2D4Fu.png' width='5%' height='2.5%' border='1' style="border-color:blue" />
+				</a>
+			</p>
+
+		</form>	
+	</body>
+
+</html>
